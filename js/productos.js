@@ -1,27 +1,27 @@
 const paquetes = [
   {
-    id: 01,
+    id: 1,
     tipo: "Paquete",
     nombre: "Creatina",
     precio: 450,
     foto: "./suplementos/creatina-.jpeg",
   },
   {
-    id: 02,
+    id: 2,
     tipo: "Paquete",
     nombre: "Hidro Whey",
     precio: 750,
     foto: "./suplementos/hydroWhey.jpeg",
   },
   {
-    id: 03,
+    id: 3,
     tipo: "Paquete",
     nombre: "Pre Workout",
     precio: 450,
     foto: "./suplementos/preWorkout.jpeg",
   },
   {
-    id: 04,
+    id: 4,
     tipo: "Paquete",
     nombre: "Aminoacidos",
     precio: 550,
